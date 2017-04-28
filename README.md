@@ -6,7 +6,7 @@ Banco de Solucoes de Problemas em geral.
     Cadastrar Problema e Solução
     Base de Dados de Soluções em Geral
     Codigo Aberto
-    Filtar Problemas por Categoria e Tags
+    Filtrar Problemas por Categoria e Tags
     
 
 # Dependencias
